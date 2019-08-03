@@ -1,9 +1,13 @@
 # react-native-sharesdk
 share sdk for react-native
 
+## 说明
+本项目源自react-native-sharesdk项目，在原项目的基础上做了简单修改
+
 ## install
 
-`npm i react-native-sharesdk --save`
+--`npm i react-native-sharesdk --save`
+
 
 ## link
 
