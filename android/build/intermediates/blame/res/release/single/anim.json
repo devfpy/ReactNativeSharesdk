@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.56.0.aar/30fa7947e66b84f53241efb2efbce842/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.56.0.aar/30fa7947e66b84f53241efb2efbce842/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.56.0.aar/30fa7947e66b84f53241efb2efbce842/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.56.0.aar/30fa7947e66b84f53241efb2efbce842/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.56.0.aar/30fa7947e66b84f53241efb2efbce842/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.56.0.aar/30fa7947e66b84f53241efb2efbce842/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/ReactNative/PublicOpinion/PublicOpinion/node_modules/react-native-sharesdk/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/fanpingyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7e4732e8eae0880ba69c2c3547893eca/res/anim/abc_slide_in_top.xml"
+    }
+]

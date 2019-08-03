@@ -1,0 +1,52 @@
+{
+  "_from": "react-native-sharesdk@1.0.9",
+  "_id": "react-native-sharesdk@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha1-ye6dfGjOoEiAFmBLgulyCEnuflM=",
+  "_location": "/react-native-sharesdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-sharesdk@1.0.9",
+    "name": "react-native-sharesdk",
+    "escapedName": "react-native-sharesdk",
+    "rawSpec": "1.0.9",
+    "saveSpec": null,
+    "fetchSpec": "1.0.9"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-sharesdk/download/react-native-sharesdk-1.0.9.tgz",
+  "_shasum": "c9ee9d7c68cea0488016604b82e9720849ee7e53",
+  "_spec": "react-native-sharesdk@1.0.9",
+  "_where": "/ReactNative/PublicOpinion/PublicOpinion",
+  "author": {
+    "name": "小成童鞋"
+  },
+  "bugs": {
+    "url": "https://github.com/lihaodeveloper/React-Native-ShareSdk/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "react-native集成share sdk第三方登录，分享。",
+  "homepage": "https://github.com/lihaodeveloper/React-Native-ShareSdk#readme",
+  "keywords": [
+    "react-native",
+    "sharesdk",
+    "login",
+    "share"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-sharesdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihaodeveloper/React-Native-ShareSdk.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}
