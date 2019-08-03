@@ -6,10 +6,12 @@ share sdk for react-native
 
 ## install
 
---`npm i react-native-sharesdk --save`
+~~`npm i react-native-sharesdk --save`~~
+
+`npm install --save git+https://github.com/devfpy/ReactNativeSharesdk.git` 
 
 
-## link
+## link 「ReactNative 0.60+自动Link」
 
 `react-native link react-native-sharesdk`
 
